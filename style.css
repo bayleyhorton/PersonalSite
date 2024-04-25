@@ -3,14 +3,9 @@
         max-height:200px;
         width:fit-content;
         border-radius: 50%;
+
        
       
-}
-
-@media (max-width: 767px){
-  .profile-image{
-    max-height:150px;
-  }
 }
 
 .background{
