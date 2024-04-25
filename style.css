@@ -1,8 +1,8 @@
 .profile-image{
-        
-        
+        max-height:200px;
+        width:fit-content;
         border-radius: 50%;
-        object-fit: cover;
+       
       
 }
 .background{
